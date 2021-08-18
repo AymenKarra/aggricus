@@ -1,0 +1,3 @@
+
+rootProject.name = "aggricus"
+include ':app'
